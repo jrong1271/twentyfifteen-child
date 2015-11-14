@@ -1,0 +1,3 @@
+[submodule "lib/shortcode-ui"]
+		path = lib/shortcode-ui
+		url = git@github.com:wp-shortcake/shortcake.git
