@@ -1,0 +1,15 @@
+[submodule "lib/shortcode-ui"]
+	path = lib/shortcode-ui
+	url = git@github.com:wp-shortcake/shortcake.git
+[submodule "lib/shortcake-bakery"]
+	path = lib/shortcake-bakery
+	url = git@github.com:wp-shortcake/shortcake-bakery.git
+[submodule "lib/image-shortcake"]
+	path = lib/image-shortcake
+	url = git@github.com:wp-shortcake/image-shortcake.git
+[submodule "lib/fieldmanager-gallery"]
+	path = lib/fieldmanager-gallery
+	url = git@github.com:fusioneng/fieldmanager-gallery.git
+[submodule "lib/co-authors-plus-roles"]
+	path = lib/co-authors-plus-roles
+	url = git@github.com:fusioneng/Co-Authors-Plus-Roles.git

@@ -1,5 +1,9 @@
 <?php
 
+require_once dirname( __FILE__ ) . '/lib/shortcake-bakery/shortcake-bakery.php';
+require_once dirname( __FILE__ ) . '/lib/shortcode-ui/shortcode-ui.php';
+require_once dirname( __FILE__ ) . '/lib/image-shortcake/image-shortcake.php';
+
 add_action( 'wp_enqueue_scripts', 'twentyfifteen_parent_theme_enqueue_styles' );
 
 function twentyfifteen_parent_theme_enqueue_styles() {
